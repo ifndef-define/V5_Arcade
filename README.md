@@ -10,7 +10,7 @@ After randomly coming accross this [video](https://www.youtube.com/watch?v=exjGB
 
 ### Planned Games List
 - <ins><b>SinglePlayer</b></ins>
-    - 2048
+    - **2048** [<i><u>Under Development</u></i>]
     - Chrome Dino Game
     - Doom[^1]
     - Flappy Bird
@@ -28,7 +28,7 @@ After randomly coming accross this [video](https://www.youtube.com/watch?v=exjGB
 
 
 ## Setup
-This project will be made to work "out of the box". As of right now, this program and everything related to it is being developed. Certain games may be ready before Vex Worlds 2024, however, this isn't guarenteed.
+This project will be made to work "out of the box". As of right now, this program and everything related to it is being developed.
 
 
 ## **Terms and Conditions**
@@ -46,15 +46,9 @@ a. By using this program, you agree to waive any claims of lack of productivity 
 
 b. You acknowledge and agree that the repo owners/contributers shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages, including but not limited to damages due to the loss of competitions, elimination, skills, awards, alliances, robot performance, forced disqualification, or other intangible losses, resulting from the use or inability to use our services.
 
-c. You agree to indemnify and hold the repo owners/contributers harmless from any claims, damages, losses, liabilities, or expenses (including attorneys' fees) arising out of or in connection with your use of our services or your violation of these terms and conditions.
-
-**Governing Law**
-
-These terms and conditions shall be governed by and construed in accordance with the laws of the VRC Game Manual, including but not limited to `<G1>`, `<G2>`, `<G3>`, `<G14>`, `<T1>`, `<T5>`, `<T6>`,  and `<SG9>`, without regard to its conflict of law provisions.
-
 By using our services, you acknowledge that you have read, understood, and agreed to be bound by these terms and conditions and the waiver of liability. If you do not agree to these terms and conditions or the waiver of liability, you must refrain from using our services, and focusing on making your robot better.
 
 
-[^1]: Not owned by me
-[^2]: Not owned by me
+[^1]: Not owned by me, see https://github.com/sealj553/VexV5Doom/tree/master
+[^2]: Not owned by me, see https://github.com/sealj553/VexV5NanoboyAdvance
 [^3]: Requires 2 brains each with a radio and controller at minimum to play
